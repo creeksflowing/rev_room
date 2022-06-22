@@ -1,0 +1,23 @@
+acoustics==0.2.4.post0
+cffi==1.15.0
+cycler==0.11.0
+fonttools==4.33.3
+glob2==0.7
+kiwisolver==1.4.3
+llvmlite==0.38.1
+matplotlib==3.5.2
+numba==0.55.2
+numpy==1.22.4
+packaging==21.3
+pandas==1.4.2
+pathlib2==2.3.7.post1
+Pillow==9.1.1
+pycparser==2.21
+pyparsing==3.0.9
+python-dateutil==2.8.2
+pytz==2022.1
+scipy==1.8.1
+six @ file:///AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-110/six-1.15.0-py2.py3-none-any.whl
+SoundFile==0.10.3.post1
+tabulate==0.8.10
+tkinterx==0.0.9
